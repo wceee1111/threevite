@@ -14,7 +14,7 @@ const camera = new THREE.PerspectiveCamera(
     1000
 )//相机
 
-//testnfn发dfs
+//testbbq
 //添加相机
 
 camera.position.set(0, 0, 10)
