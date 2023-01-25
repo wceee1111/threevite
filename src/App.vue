@@ -14,7 +14,7 @@ const camera = new THREE.PerspectiveCamera(
     1000
 )//相机
 
-//tGG
+//tGGDDs
 //添加相机
 
 camera.position.set(0, 0, 10)
